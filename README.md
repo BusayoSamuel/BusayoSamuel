@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BusayoSamuel, Fullstack Developer
 - 👀 I’m proficient in Python/Flask, Flutter/Dart and React.js/Typescript
-- 💞️ Looking to collaborate on any web/mobile app development projects - CV: https://bit.ly/4eTu1vF
+- 💞️ Open to collaborating on any web/mobile app development projects - CV: https://bit.ly/4eTu1vF
 - 📫 How to reach me - email: busayosalisu@gmail.com
 
 <!---
